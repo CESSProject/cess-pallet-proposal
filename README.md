@@ -36,7 +36,7 @@ Figure 1: Proposal architecture
 
 - **Data Storage Pallet**: Realize the recording and management of stored data. This pallet implements functions related to meta-data, e.g. root data management, data owner management, and data classification regarding the stored data.
 
-- **Custom-built Storage Sidecar**: Provide RESTful service to interact with Data Storage Pallet. The difference from Substrate API Sidecar is that, in addition to the basic functions of interacting with the substrate-based chain, Storage Sidecar encapsulates storage-related API, including data storage and data retrieval. The data transmitted by users will eventually be stored in [**CESS Storage System**](https://cess.cloud/store) through this interface.
+- **Custom-built Storage Sidecar**: Provide RESTful service to interact with Data Storage Pallet. The difference from Substrate API Sidecar is that, in addition to the basic functions of interacting with the substrate-based chain, Storage Sidecar encapsulates storage-related API, including data storage and data retrieval. The data transmitted by users will eventually be stored in CESS Storage System through this interface.
 
 ### 3.2 Typical example
 
@@ -67,7 +67,7 @@ Figure 2: Typical example process
 
 We have a team of professionals in getting this done. The backgrounds of team members include but are not limited to cloud computing, consensus algorithms and distributed storage. Most of them have been working in their respective fields for many years and have rich industry experience and solutions. The team members are distributed in the UK, the US, China and India, ranging from research scholars and cryptography experts to senior technical managers and Substrate development engineers.
 
-So far, the team's CESS project is gradually integrating into the Polkadot ecosystem. Won the 1st Place in Polkadot Hackthon APAC Edition in 2021, pass all W3F Grants Program milestone deliveries on January 25, 2022, and officially join the Substrate Builder Program on February 14, 2022. The team is currently actively communicating and cooperating with other Polkadot teams and projects.
+So far, one of the team's project [**CESS**](https://github.com/CESSProject/cess) is gradually integrating into the Polkadot ecosystem. Won the 1st Place in Polkadot Hackthon APAC Edition in 2021, pass all W3F Grants Program milestone deliveries on January 25, 2022, and officially join the Substrate Builder Program on February 14, 2022. The team is currently actively communicating and cooperating with other Polkadot teams and projects.
 
 ## 5. Summary
 
