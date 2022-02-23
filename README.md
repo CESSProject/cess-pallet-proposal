@@ -30,7 +30,7 @@ We design and implement a data storage service based on Substrate. On one hand, 
 
 Our proposal architecture is shown in the figure below, which consists of the Data Storage Pallet and custom-built Storage Sidecar (inspired by [Substrate API Sidecar](https://github.com/paritytech/substrate-api-sidecar)).
 
-# ![Figure 1: Proposal architecture](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/substrate-builder-program/01.png)
+# ![Figure 1: Proposal architecture](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/substrate-builder-program/07.svg)
 
 Figure 1: Proposal architecture
 
@@ -42,7 +42,7 @@ Figure 1: Proposal architecture
 
 Data storage and retrieval are the two core features for a data storage service. They are illustrated in details below.
 
-# ![Figure 2: Typical example process](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/substrate-builder-program/02.png)
+# ![Figure 2: Typical example process](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/substrate-builder-program/08.svg)
 
 Figure 2: Typical example process
 
