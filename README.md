@@ -32,7 +32,7 @@ Our proposal architecture is shown in the figure below, which consists of the Da
 
 # ![Figure 1: Proposal architecture](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/substrate-builder-program/07.svg)
 
-Figure 1: Proposal architecture
+*Figure 1: Proposal architecture*
 
 - **Data Storage Pallet**: Realize the recording and management of stored data. This pallet implements functions related to meta-data, e.g. root data management, data owner management, and data classification regarding the stored data.
 
@@ -44,7 +44,7 @@ Data storage and retrieval are the two core features for a data storage service.
 
 # ![Figure 2: Typical example process](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/substrate-builder-program/08.svg)
 
-Figure 2: Typical example process
+*Figure 2: Typical example process*
 
 **Data Storage**
 
