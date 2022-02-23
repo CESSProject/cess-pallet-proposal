@@ -55,13 +55,13 @@ Data storage and retrieval are the two core features for a data storage service.
 
 **Data Retrieval**
 
-1. A user calls the storage API of the Custom-built Storage Sidecar to retrieve the target data;
-2. Custom-built Storage Sidecar to query on-chain data routing information;
-3. Call the CESS data retrieval API with the routing info;
-4. Retrieve and return the target data from CESS Storage System;
-5. Return the target data to Custom-built Storage Sidecar;
-6. Custom-built Storage Sidecar updates on-chain information, if necessary;
-7. Return the target data to the user.
+5. A user calls the storage API of the Custom-built Storage Sidecar to retrieve the target data;
+6. Custom-built Storage Sidecar to query on-chain data routing information;
+7. Call the CESS data retrieval API with the routing info;
+8. Retrieve and return the target data from CESS Storage System;
+9. Return the target data to Custom-built Storage Sidecar;
+10. Custom-built Storage Sidecar updates on-chain information, if necessary;
+11. Return the target data to the user.
 
 ## 4. Team
 
