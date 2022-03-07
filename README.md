@@ -12,7 +12,7 @@ So we hope to offer Substrate/Polkadot community with pallets (and toolchains) d
 
 ## 2. Shortcomings of the current scheme
 
-There is only one pallet related to data storage in the existing Substrate FRAME, aka, [Transaction Storage Palllet](https://paritytech.github.io/substrate/latest/pallet_transaction_storage/index.html). It supports running an IPFS node side-by-side with Substrate and allowing data to be retrieved by IPFS after putting it in Substrate storage. However, its application scope is greatly limited due to its inherent characteristics and several defects in the following aspects.
+There is only one pallet related to data storage in the existing Substrate FRAME, aka, [Transaction Storage Pallet](https://paritytech.github.io/substrate/latest/pallet_transaction_storage/index.html). It supports running an IPFS node side-by-side with Substrate and allowing data to be retrieved by IPFS after putting it in Substrate storage. However, its application scope is greatly limited due to its inherent characteristics and several defects in the following aspects.
 
 1. Data need to be uploaded to the blockchain network. Although this data is not actually stored on the chain, they still incur additional gas costs and congestion, which is not suitable for large file storage.
 
